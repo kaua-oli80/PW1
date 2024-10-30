@@ -1,0 +1,66 @@
+.navbar {
+    font-family: 'Roboto', sans-serif; 
+    background-color: rgba(0, 0, 0, 0.671); 
+    position: fixed; 
+    width: 100%; 
+    z-index: 1000; 
+    height: 70px; 
+    font-size: 17px;
+}
+
+.nav {
+    text-align: center; 
+    width: 100%; 
+    display: flex; 
+    align-items: center; 
+}
+
+.nav-link {
+    color: rgb(255, 255, 255); 
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-position: center;
+    color: rgb(0, 126, 21);
+    margin-top: 70px; 
+}
+
+.contact-info {
+    text-align: center;
+    margin-top: 100px; 
+}
+
+.map-container {
+    margin-top: 50px;
+}
+
+.map-responsive {
+    overflow: hidden;
+    padding-top: 56.25%; 
+    position: relative;
+}
+
+.map-responsive iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+    }
+}

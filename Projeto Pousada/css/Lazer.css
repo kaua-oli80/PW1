@@ -1,0 +1,97 @@
+.img-top {
+    height: 400px; 
+    object-fit: cover; 
+}
+
+.image-caption h1 {
+    font-size: 2.5em; 
+    margin: 0; 
+}
+
+.image-caption p {
+    font-size: 1.5em; 
+    margin: 0; 
+}
+
+.navbar {
+    font-family: 'Roboto', sans-serif; 
+    background-color: rgba(0, 0, 0, 0.671); 
+    position: fixed; 
+    width: 100%; 
+    z-index: 1000; 
+    height: 70px; 
+    font-size: 17px;
+}
+
+.nav {
+    text-align: center; 
+    width: 100%; 
+    display: flex; 
+    align-items: center; 
+}
+
+.nav-link {
+    color: rgb(255, 255, 255); 
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    color: #333;
+}
+
+h4 {
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.container {
+    padding-top: 70px; 
+}
+
+img {
+    width: 100vw; 
+    max-height: 800px; 
+    height: auto; 
+    display: block; 
+}
+
+.image-caption {
+    position: absolute;
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.text-center-lazer {
+    font-size: 43px;
+    text-align: center; 
+    margin-top: 20px; 
+}
+.lista-lazer li {
+    font-size: 1.7em; 
+    line-height: 1.9; 
+}
+
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+    }
+}

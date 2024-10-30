@@ -1,0 +1,60 @@
+
+.navbar {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(0, 0, 0, 0.671);
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    height: 70px;
+    font-size: 17px;
+}
+
+.nav {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.image-caption {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.container {
+    padding-top: 70px; 
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.custom-img {
+    max-width: 600px; 
+    height: auto; 
+}
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+    }
+}
