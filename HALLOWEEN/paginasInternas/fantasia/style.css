@@ -1,0 +1,27 @@
+body{
+    background-image: url(.//imgfantasia/fundo-de-halloween-com-efeito-escuro-grunge_1048-3115.png);
+   background-repeat: no-repeat;
+   background-size: 100% 1500%;
+
+    
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+    justify-content: space-between;
+    display:flex;
+    opacity: 0.8;
+}
+a{
+    color: white
+}
+
+p{
+    color:white
+}
+
+h1{
+    color: red;
+   
+}
