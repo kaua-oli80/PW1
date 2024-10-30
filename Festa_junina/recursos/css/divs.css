@@ -1,0 +1,25 @@
+.section_divul{
+    width: 1000px;
+    height: 10px;
+    align-items: center;
+    justify-content: space-between;
+    display: block;
+    margin-top: -5pc;
+    margin-left: 2pc;
+    font-size: 60px;
+    font-family: Bebas Neue, sans-serif;
+    color: red;
+}
+.section_infos{
+    width: 1000px;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+    display: block;
+    margin-top: 5pc;
+    margin-left: 40pc;
+    font-size: 55px;
+    font-family: Bebas Neue, sans-serif;
+    color: white;
+    padding: 0px;
+}

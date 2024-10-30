@@ -1,0 +1,36 @@
+.arraial{
+    margin-top: -7pc;
+    color: yellow;
+}
+.etec{
+    margin-top: -6pc;
+    color: rgb(30, 255, 0);
+}
+.cidade{
+    margin-top: -5pc;
+    color: rgb(255, 150, 37);
+}
+.tiradentes{
+    margin-top: -4pc;
+    color: rgb(0, 242, 255);
+}
+.horas{
+    margin-top: -6pc;
+    color: darkblue;
+    margin-left: 23.5pc;
+}
+.endereco{
+    margin-top: -5pc;
+    color: darkmagenta;
+    margin-left: 8pc;
+}
+.dia{
+    margin-top: -6pc;
+    margin-left: 30pc;
+    color: darkturquoise;
+}
+h1{
+    color: red;
+    font-family: Bebas Neue, sans-serif;
+    font-size: 100px;   
+}
