@@ -1,0 +1,90 @@
+.img_blv{
+    margin-left: 16px;
+    margin-top: 5px;
+    height: 170px;
+    width: 170px;
+    border-radius: 2pc;
+    
+}
+img_blv:houver{
+    transform: scale(1.2)
+}
+#img_ca{
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: -10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 2pc;
+}
+#img_dlg{
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: 10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 2pc;
+    
+}
+#img_djm{
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: 10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 2pc;
+}
+#img_soy{
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: 10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 2pc;
+}
+.logo1_img{
+    height: 70px;
+    width: 70px;
+    margin-top: 5px;
+    margin-right: 74pc;
+    border-radius: 2pc;
+}
+.logo2_img{
+    height: 70px;
+    width: 70px;
+    margin-top: 0px;
+    margin-right: 84pc;
+    border-radius: 2pc;
+}
+#maria{
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: 10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 2pc;
+}
+#cham{
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: 10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 2pc;
+}
+#sul{
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: 10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 2pc;
+}
+#filho{
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: 10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 2pc;
+}

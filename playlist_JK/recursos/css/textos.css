@@ -1,0 +1,434 @@
+#blv{
+    font-size: 25px;
+    color: black;
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 50px;
+    margin-top: -10px;
+    position: absolute; 
+}
+#beliver{
+    color: yellow;
+    font-family: cursive;
+    font-size: 60px;
+    margin-right: -55pc;
+}
+.info{
+    color: yellow;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 6pc;
+    margin-top: 1pc;
+}
+#p-id{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 90px;
+    margin-top: -4pc;
+}
+#pg{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 65px;
+    margin-top: -7pc;
+}
+#l{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 28px;
+    margin-top: -10pc;
+}
+.ca{
+    font-size:  15px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 180px;
+    margin-bottom: 2px;
+    position: absolute;
+}
+#l-2{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 40px;
+    margin-top: -5pc;
+}
+#pg-2{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 140px;
+    margin-top: -5pc;
+}
+#p-id-2{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 120px;
+    margin-top: -4pc;
+}
+#sign{
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    margin-right: 8pc;
+    margin-top: 1pc;
+}
+#p-sign{
+    color: yellow;
+    font-family: cursive;
+    font-size: 23px;
+    margin-top: -3pc;
+    margin-left: 1pc;
+}
+#music{
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-top: 2pc;
+    margin-right:  25pc;
+}
+#music-2{
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-top: -25pc;
+    margin-right:  -10pc; 
+    z-index: 5;
+}
+#dlg{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 180px;
+    margin-bottom: 2px;
+    position: absolute;
+}
+#music-3{
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-top: -25pc;
+    margin-right:  -pc; 
+    z-index: 5;
+}
+#l-3{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 80px;
+    margin-top: -6pc;
+}
+#p-id-3{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 130px;
+    margin-top: -4pc;
+}
+#p-id-3{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 130px;
+    margin-top: -4pc;
+}
+#pg-3{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 60px;
+    margin-top: -5pc;
+}
+
+
+
+
+#ded{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-top: 180px;
+    margin-bottom: 2px;
+    position: absolute;
+}
+#l-4{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 200px;
+    margin-top: -7pc;
+}
+#pg-4{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 145px;
+    margin-top: -5pc;
+}
+#p-id-4{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 140px;
+    margin-top: -2pc;
+}
+
+#soy{
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 180px;
+    margin-bottom: 2px;
+    position: absolute;
+}
+#l-5{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 205px;
+    margin-top: -7pc;
+}
+#pg-5{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 220px;
+    margin-top: -5pc;
+}
+#p-id-5{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 140px;
+    margin-top: -2pc;
+}
+a{
+    text-decoration: none;
+    text-decoration-line: none;
+}
+#joao{
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 180px;
+    margin-bottom: 2px;
+    position: absolute;
+}
+#l-6{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 205px;
+    margin-top: -7pc;
+}
+#pg-6{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 190px;
+    margin-top: -5pc;
+}
+#p-id-6{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 130px;
+    margin-top: -2pc;
+}
+#p-sign-6{
+    color: yellow;
+    font-family: cursive;
+    font-size: 16px;
+    margin-top: -3pc;
+    margin-left: 1pc;
+}
+#pions{
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 180px;
+    margin-bottom: 2px;
+    position: absolute;
+}
+#l-7{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 105px;
+    margin-top: -7pc;
+}
+#pg-7{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 225px;
+    margin-top: -5pc;
+}
+#p-id-7{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 215px;
+    margin-top: -2pc;
+}
+#tam{
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 180px;
+    margin-bottom: 2px;
+    position: absolute;
+}
+#l-9{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 195px;
+    margin-top: -9pc;
+}
+#pg-9{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 205px;
+    margin-top: -6pc;
+}
+#p-id-9{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 150px;
+    margin-top: -2pc;
+}
+#l-8{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 70px;
+    margin-top: -9pc;
+}
+#pg-8{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 52px;
+    margin-top: -6pc;
+}
+#p-id-8{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 150px;
+    margin-top: -2pc;
+}
+#e{
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    z-index: 5;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 180px;
+    margin-bottom: 2px;
+    position: absolute; 
+}
+#pg-10{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 165px;
+    margin-top: -6pc;
+}
+#l-10{
+    color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 200px;
+    margin-top: -9pc;
+}
+.voltar{
+    margin-right: 20px;
+    width: 120px;
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    border: 6px;
+    border-radius: 50px;
+    text-align: center;
+    cursor: pointer; 
+    font-family: cursive;
+    font-size: 20px;
+}
+.voltar:hover{
+    padding: 10px;
+    background: yellow;
+    transition: 1s;
+}
+.desen{
+    margin-right: 20px;
+    width: 280px;
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    border: 6px;
+    border-radius: 50px;
+    text-align: center;
+    cursor: pointer; 
+    font-family: cursive;
+    font-size: 20px;
+}
+.desen:hover{
+    padding: 5px;
+    background: yellow;
+    transition: 1s;
+}
+#pg-11{
+    color: yellow;
+    font-family: cursive;
+    font-size: 50px;
+    margin-right: 200px;
+    margin-top: -9pc;
+}
+#p-id-11{
+    color: yellow;
+    font-family: cursive;
+    font-size: 40px;
+    margin-right: -5px;
+    margin-top: -4pc;
+}
+.info-desen{
+    color: yellow;
+    font-size: 55px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 6pc;
+    margin-top: 1pc;
+}
+#desen{
+    color: yellow;
+    font-family: cursive;
+    font-size: 60px;
+    margin-right: -62pc;  
+}

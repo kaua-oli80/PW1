@@ -1,0 +1,35 @@
+.vd_blv{
+    margin-right: 300px;
+    margin-top: -100px;
+    border: 0;
+    width: 30pc;
+    height: 30pc;
+    opacity: 1;
+}
+.vd_ca{
+    margin-right: 200px;
+    margin-top: 120px;
+    width: 40pc;
+    height: 30pc;
+    opacity: 1;
+    border: 0;
+}
+.vd_dlg{
+    margin-right: 250px;
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+    opacity: 1;
+    border: 0;
+    z-index: 4;
+}
+.vd_ded{
+    margin-right: 250px;
+    margin-top: 50px;
+    width: 40pc;
+    height: 30pc;
+    opacity: 1;
+    border: 0;
+    z-index: 4;
+}
+
