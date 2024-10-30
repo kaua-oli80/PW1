@@ -1,0 +1,84 @@
+body{
+    background-image: url(./img/fundo1_out.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-left: 550px; 
+    padding-right: 560px;
+    padding: auto;
+    background-attachment: fixed;
+    text-align: center;
+    
+   
+            
+        
+}
+h1{
+    font-size: 40px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: chocolate;
+    border-radius: 20px;
+    width: 330px;
+    height: 130px;
+}
+h2{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: chocolate;
+    border-radius: 20px;
+    width: 490px;
+    height: 60px;
+
+}
+h3{
+    font-size: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn{
+    padding: 10px;
+    width: 150px;
+    color: white;
+    background-color: chocolate;
+    border: 6px;
+    border-radius: 150px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    background-color: chocolate;
+    border-radius: 10px;
+    width: 360px;
+    height: 280px;
+}
+img{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    padding-left: 50px;
+}
+td{
+    border: 1px solid black;
+    color: white;
+}
+th{
+    border: 1px solid black;
+    color: white;
+}
+table{
+    border: 1px solid black;
+    border-color: black;
+    background-color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+}
